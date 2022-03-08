@@ -1,1 +1,1 @@
-# Evade the dragon and escape from the dark labyrinth.
+Evade the dragon and escape from the dark labyrinth.
